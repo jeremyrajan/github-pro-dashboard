@@ -26,6 +26,8 @@ Changelog
 
 **v1.0.0**
   Initial Release
+  
+-----
 
 > Black theme is only supported for dashboard/home. If you would like to enable it for the whole site, please let me know.
 
