@@ -16,18 +16,18 @@ GithubPro Dashboard brings the best of Github Personal dashboard:
 Changelog
 ----------------------
 
-v1.1.1
+**v1.1.1**
   1. Bug fix for watchers count, as key name from github API was different.
 
-v1.1.0
+**v1.1.0**
   1. Added loader icon for api calls.
   2. Style updates
   3. Update manifest files to reflect, capitalized name.
 
-v1.0.0
+**v1.0.0**
   Initial Release
 
-* Black theme is only supported for dashboard/home. If you would like to enable it for the whole site, please let me know.
+> Black theme is only supported for dashboard/home. If you would like to enable it for the whole site, please let me know.
 
 Currently, looking for collaborators to include more features. Reach out to me, jeremyrajan@gmail.com.
 
