@@ -16,6 +16,9 @@ GithubPro Dashboard brings the best of Github Personal dashboard:
 Changelog
 ----------------------
 
+**v1.1.2**
+  1. Improved and simple logo.
+
 **v1.1.1**
   1. Bug fix for watchers count, as key name from github API was different.
 
