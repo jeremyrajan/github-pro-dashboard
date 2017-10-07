@@ -1,4 +1,4 @@
-# GithubPro Dashboard
+# GithubPro Dashboard <img width="50" src="https://user-images.githubusercontent.com/2890683/31309875-3ab5ac22-abc0-11e7-8bb5-aed6bbef0bbd.png" />
 Improved Github Dashboard (with Black theme)
 
 <a href="https://chrome.google.com/webstore/detail/github-pro/iihgjgnkcjooinepfnjceobckhcdcggj"><img src="https://user-images.githubusercontent.com/2890683/31304960-259199be-ab61-11e7-832e-e2ff37790baf.png" width="180" /></a>
