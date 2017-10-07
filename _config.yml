@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 plugins:
   - jemoji
+  - jekyll-seo-tag
