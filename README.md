@@ -31,6 +31,6 @@ Changelog
 
 Currently, looking for collaborators to include more features. Reach out to me, jeremyrajan@gmail.com.
 
-Give it a shot and let me know, what you guys think :).
+Give it a shot and let me know, what you guys think :blush:.
 
-Built with OSS and Github <3!
+Built with OSS and Github :heartpulse:!
